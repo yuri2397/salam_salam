@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920913460491",
+    "firebase_url": "https://salam-salam-8258c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "salam-salam-8258c",
+    "storage_bucket": "salam-salam-8258c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920913460491:android:f2958eb39ef9667857f60e",
+        "android_client_info": {
+          "package_name": "com.example.salam_salam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920913460491-krhfptj6oqk85r1frmp3f2s5ruovgkq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salam_salam",
+            "certificate_hash": "fa6676db3bc4de065cfa87e51b3e8d368a05a202"
+          }
+        },
+        {
+          "client_id": "920913460491-ch31frkcfrlc48utulrpqp1545g7hcr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR0eJRHkAND1NYw42L4PDKxrBDDk7372k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920913460491-ch31frkcfrlc48utulrpqp1545g7hcr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920913460491-a0ob3alvfp3begl8g1ghddn1kpecop79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.salamSalam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
